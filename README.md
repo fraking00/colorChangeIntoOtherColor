@@ -6,10 +6,4 @@ Use the color coordinates of the color in hsv that you want.
 
 In the result you have the object that you are pointing at and in the frame you have the color changed frame itself.
 
-
-
-
-
-
-
-
+the changeColorVideo is the same but it implements the choosing of the video that have to be in the same repository of the code and the time span.
